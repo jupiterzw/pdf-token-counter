@@ -21,7 +21,7 @@ A Python tool for analyzing PDF documents and counting tokens using OpenAI's tik
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:jupiterzw/pdf-token-counter.git
    cd pdf-token-counter
    ```
 
